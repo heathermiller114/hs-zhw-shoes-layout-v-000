@@ -41,3 +41,6 @@
   float: right;
   width: 33%;
 }
+[class*='col-'] {
+    margin-left: 2%;
+  }
